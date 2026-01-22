@@ -64,3 +64,38 @@ Estudiante del programa Oracle ONE - Alura Latam
 - Toma de decisiones basada en datos
 - Creación de informes ejecutivos
 - Trabajo con herramientas de análisis
+
+## 📁 Estructura Actual del Repositorio
+store-data-analisis/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── src/
+│ └── init.py
+├── notebooks/
+│ └── .gitkeep
+├── data/
+│ └── .gitkeep
+└── docs/
+└── .gitkeep
+
+
+## 🗓️ Próximos Pasos
+
+### **Análisis por Implementar:**
+1. ✅ **README y setup** - Completado
+2. ⬜ **Facturación total** - Próxima semana
+3. ⬜ **Ventas por categoría** 
+4. ⬜ **Evaluación de clientes**
+5. ⬜ **Productos más/menos vendidos**
+6. ⬜ **Costo promedio de envío**
+7. ⬜ **Informe final**
+
+### **Metodología de Trabajo:**
+Cada análisis se desarrollará en una **rama separada** usando:
+1. `git checkout -b feature/nombre-analisis`
+2. Desarrollo y commits
+3. Pull Request con descripción detallada
+4. Revisión y merge a main
+
