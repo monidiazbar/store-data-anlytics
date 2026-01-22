@@ -67,6 +67,7 @@ Estudiante del programa Oracle ONE - Alura Latam
 
 ## 📁 Estructura Actual del Repositorio
 📁 store-data-analisis
+
 ├── 📄 README.md
 
 ├── 📄 .gitignore (protege archivos innecesarios)
