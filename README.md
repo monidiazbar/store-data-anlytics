@@ -67,12 +67,18 @@ Estudiante del programa Oracle ONE - Alura Latam
 
 ## 📁 Estructura Actual del Repositorio
 📁 store-data-analisis
-├── 📄 README.md (bonito y completo)
+├── 📄 README.md
+
 ├── 📄 .gitignore (protege archivos innecesarios)
+
 ├── 📄 requirements.txt (dependencias)
+
 ├── 📁 src/ (paquete Python)
+
 ├── 📁 notebooks/ (para Jupyter)
+
 ├── 📁 data/ (para datasets)
+
 └── 📁 docs/ (documentación)
 
 
