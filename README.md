@@ -66,30 +66,14 @@ Estudiante del programa Oracle ONE - Alura Latam
 - Trabajo con herramientas de análisis
 
 ## 📁 Estructura Actual del Repositorio
-store-data-analisis/
-
-│
-├── .gitignore
-
-├── README.md
-
-├── requirements.txt
-
-├── src/
-
-│ └── init.py
-
-├── notebooks/
-
-│ └── .gitkeep
-
-├── data/
-
-│ └── .gitkeep
-
-└── docs/
-
-└── .gitkeep
+📁 store-data-analisis
+├── 📄 README.md (bonito y completo)
+├── 📄 .gitignore (protege archivos innecesarios)
+├── 📄 requirements.txt (dependencias)
+├── 📁 src/ (paquete Python)
+├── 📁 notebooks/ (para Jupyter)
+├── 📁 data/ (para datasets)
+└── 📁 docs/ (documentación)
 
 
 ## 🗓️ Próximos Pasos
