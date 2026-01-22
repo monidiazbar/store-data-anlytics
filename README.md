@@ -69,15 +69,25 @@ Estudiante del programa Oracle ONE - Alura Latam
 store-data-analisis/
 │
 ├── .gitignore
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── src/
+
 │ └── init.py
+
 ├── notebooks/
+
 │ └── .gitkeep
+
 ├── data/
+
 │ └── .gitkeep
+
 └── docs/
+
 └── .gitkeep
 
 
