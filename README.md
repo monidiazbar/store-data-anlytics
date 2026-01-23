@@ -66,7 +66,19 @@ Estudiante del programa Oracle ONE - Alura Latam
 - Trabajo con herramientas de análisis
 
 ## 📁 Estructura Actual del Repositorio
-📁 store-data-analisis
+📁 store-data-analytics
+
+├── 📁 base-de-datos-challenge1-latam/ (contiene archivos de datos)
+
+  ├── 📄 tienda_1.csv
+  
+  ├── 📄 tienda_2.csv
+  
+  ├── 📄 tienda_3.csv
+  
+  ├── 📄 tienda_4.csv
+
+├── 📄 AluraStoreLatam.ipynb
 
 ├── 📄 README.md
 
@@ -77,8 +89,6 @@ Estudiante del programa Oracle ONE - Alura Latam
 ├── 📁 src/ (paquete Python)
 
 ├── 📁 notebooks/ (para Jupyter)
-
-├── 📁 data/ (para datasets)
 
 └── 📁 docs/ (documentación)
 
