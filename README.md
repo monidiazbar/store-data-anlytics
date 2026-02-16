@@ -86,11 +86,6 @@ Estudiante del programa Oracle ONE - Alura Latam
 
 ├── 📄 requirements.txt (dependencias)
 
-├── 📁 src/ (paquete Python)
-
-├── 📁 notebooks/ (para Jupyter)
-
-└── 📁 docs/ (documentación)
 
 
 ## 🗓️ Próximos Pasos
